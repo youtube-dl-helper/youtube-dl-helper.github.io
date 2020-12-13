@@ -1,6 +1,6 @@
 # youtube-dl-helper
 
-youtube-dl-helper is a tool for Windows that can download video or audio from [many sites](https://rg3.github.io/youtube-dl/supportedsites.html) without requiring you to use the command-line.
+youtube-dl-helper is a tool for Windows that can download video or audio from [many sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html) without requiring you to use the command-line.
 
 ### If you have any problems or suggestions, send me an email: **mesdartin@gmail.com**
 
@@ -20,20 +20,22 @@ youtube-dl-helper is a tool for Windows that can download video or audio from [m
 
 ## More options
 
-* To download the audio of your URLs as MP3 files, open the **more** folder and run **mp3.bat** instead of **run.bat** (this will re-encode the audio to MP3 once it has been downloaded).
+Open the **more** folder and instead of **run.bat** you can run...
 
-* To download audio in the best quality available without re-encoding to MP3, run **audio.bat** in the **more** folder.
-
-* To download video in the best quality available (which may not be MP4), run **best.bat** in the **more** folder (this can be used to download 4K videos from YouTube).
+* **audio.bat**: Download just the audio in the best quality available
+* **mp3.bat**: Download just the audio and re-encode it to MP3
+* **best.bat**: Download video in the best quality available (which may not be MP4)
+* **id.bat**: Append the ID to the filename
+* **date.bat**: Prepend the upload date to the filename
 
 ## About this project
 
-This tool is just a few very simple batch files that use [youtube-dl](http://rg3.github.io/youtube-dl/). The reason why you might want to use this instead of using youtube-dl directly is because youtube-dl by default...
+This tool is just a few very simple batch files that use [youtube-dl](https://youtube-dl.org/). The reason why you might want to use this instead of using youtube-dl directly is because youtube-dl by default...
 
 * Requires the use of the command-line
 * Can require additional software (FFmpeg, RTMPDump, Microsoft Visual C++ 2010 Redistributable Package)
-* Names downloaded files with the content ID appended to the title
+* Names downloaded files with the ID appended to the title
 * Downloads videos from YouTube in various formats instead of only MP4
 * Doesn't update automatically
 
-You may prefer to use [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/).
+You may prefer to use [TheFrenchGhosty's YouTube-DL Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts).
