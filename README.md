@@ -27,6 +27,7 @@ Open the **more** folder and instead of **run.bat** you can run...
 * **best.bat**: Download video in the best quality available (which may not be MP4)
 * **id.bat**: Append the ID to the filename
 * **date.bat**: Prepend the upload date to the filename
+* **subs.bat**: Download video and embed subtitles
 
 ## About this project
 
