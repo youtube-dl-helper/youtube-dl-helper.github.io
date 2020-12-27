@@ -29,6 +29,12 @@ Open the **more** folder and instead of **run.bat** you can run...
 * **date.bat**: Prepend the upload date to the filename
 * **subs.bat**: Download video and embed subtitles
 
+If you want, you can...
+
+* Move these **.bat** files out of the **more** folder and into the **youtube-dl-helper** folder or vice versa
+* Delete the ones you don't want
+* Edit them and create your own using Notepad and the [youtube-dl documentation](https://github.com/ytdl-org/youtube-dl/blob/master/README.md)
+
 ## About this project
 
 This tool is just a few very simple batch files that use [youtube-dl](https://youtube-dl.org/). The reason why you might want to use this instead of using youtube-dl directly is because youtube-dl by default...
