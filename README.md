@@ -44,5 +44,3 @@ This tool is just a few very simple batch files that use [youtube-dl](https://yo
 * Names downloaded files with the ID appended to the title
 * Downloads videos from YouTube in various formats instead of only MP4
 * Doesn't update automatically
-
-You may prefer to use [TheFrenchGhosty's YouTube-DL Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts).
