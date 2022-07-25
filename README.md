@@ -1,6 +1,6 @@
 # youtube-dl-helper
 
-youtube-dl-helper is a tool for Windows that can download video or audio from [many sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html) without requiring you to use the command-line.
+youtube-dl-helper is a tool for Windows that can download video or audio from [many sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) without requiring you to use the command-line.
 
 If you have any problems or suggestions, send me an email: mesdartin@gmail.com
 
@@ -32,11 +32,11 @@ If you want, you can...
 
 * Move these **.bat** files out of the **more** folder and into the **youtube-dl-helper** folder or vice versa
 * Delete the ones you don't want
-* Edit them and create your own using Notepad and the [youtube-dl documentation](https://github.com/ytdl-org/youtube-dl/blob/master/README.md)
+* Edit them and create your own using Notepad and the [yt-dlp documentation](https://github.com/yt-dlp/yt-dlp/blob/master/README.md)
 
 ## About this project
 
-This tool is just a few very simple batch files that use [youtube-dl](https://youtube-dl.org/). The reason why you might want to use this instead of using youtube-dl directly is because youtube-dl by default...
+This tool is just a few very simple batch files that use [yt-dlp](https://github.com/yt-dlp/yt-dlp). The reason why you might want to use this instead of using youtube-dl directly is because youtube-dl by default...
 
 * Requires the use of the command-line
 * Can require additional software (FFmpeg, RTMPDump, Microsoft Visual C++ 2010 Redistributable Package)
