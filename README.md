@@ -2,8 +2,6 @@
 
 youtube-dl-helper is a tool for Windows that can download video or audio from [many sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) without requiring you to use the command-line.
 
-If you have any problems or suggestions, send me an email: mesdartin@gmail.com
-
 ## Download and instructions
 
 * Download [youtube-dl-helper.zip](https://github.com/youtube-dl-helper/youtube-dl-helper.github.io/releases/download/v0.1/youtube-dl-helper.zip) and extract it anywhere on your computer that doesn't require administrator permission to write to (for example, the desktop or downloads folder are OK, but not the Program Files folder) and open the **youtube-dl-helper** folder.
